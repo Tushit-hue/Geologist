@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+canvas{
+    margin-top: 23px;
+    /* border: 4px solid sienna; */
+}
